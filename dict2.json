@@ -1,0 +1,107 @@
+[
+  {
+    "word": "Pharmacy",
+    "pos": "Noun",
+    "chinDef": "藥房"
+  },
+  {
+    "word": "Pharmacist",
+    "pos": "Noun",
+    "chinDef": "藥劑師"
+  },
+  {
+    "word": "Organic products",
+    "pos": "phr",
+    "chinDef": "有機產品"
+  },
+  {
+    "word": "pharmacy",
+    "pos": "Noun",
+    "chinDef": "藥房"
+  },
+  {
+    "word": "First aid",
+    "pos": "phr",
+    "chinDef": "急救"
+  },
+  {
+    "word": "Cure",
+    "pos": "v",
+    "chinDef": "治療"
+  },
+  {
+    "word": "Therapy",
+    "pos": "Noun",
+    "chinDef": "療程"
+  },
+  {
+    "word": "Prescription",
+    "pos": "Noun",
+    "chinDef": "處方"
+  },
+  {
+    "word": "Injection",
+    "pos": "Noun",
+    "chinDef": "注射"
+  },
+  {
+    "word": "Side effect",
+    "pos": "phr.",
+    "chinDef": "副作用"
+  },
+{
+    "word": "Vitamins",
+    "pos": "Noun",
+    "chinDef": "維他命"
+  },
+{
+    "word": "pharmacy",
+    "pos": "Noun",
+    "chinDef": "藥房"
+  },
+{
+    "word": "X-ray",
+    "pos": "Noun",
+    "chinDef": "X光"
+  },
+{
+    "word": "Eye drops",
+    "pos": "phr.",
+    "chinDef": "眼藥水"
+  },
+{
+    "word": "Vaccine",
+    "pos": "Noun",
+    "chinDef": "疫苗"
+  },
+{
+    "word": "Vaccination",
+    "pos": "Noun",
+    "chinDef": "接種疫苗"
+  },
+{
+    "word": "Constipation",
+    "pos": "Noun",
+    "chinDef": "便祕"
+  },
+  {
+    "word": "Antibiotics",
+    "pos": "Noun",
+    "chinDef": "抗生素"
+  },
+  {
+    "word": "Bacterial",
+    "pos": "adj.",
+    "chinDef": "細菌的"
+  },
+  {
+    "word": "Infection",
+    "pos": "Noun",
+    "chinDef": "感染"
+  },
+  {
+    "word": "Syrup",
+    "pos": "Noun",
+    "chinDef": "藥用糖漿"
+  }
+]
